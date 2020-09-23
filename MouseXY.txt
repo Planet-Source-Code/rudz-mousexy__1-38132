@@ -1,0 +1,38 @@
+MouseXY
+-------
+By Rudy Alex Kohn (RudZ)
+
+©2001-2 As Freeware
+
+
+v0.11
+
+
+ - So why waste any time on this feeble little util ?
+  Programs like Photoshop have such a thing build in to it (and i use it).
+  So I threw together this one to have when needed (or just for the fun of it :)
+
+
+
+ - The MouseXY.ini
+
+	Back=
+		Yup, this little baby is kinda skinable, just make you'r own background and
+		enter the filename here
+		(note: if file is located other than application path, the full path must be specified)
+		Supports : Bmp, Gif, Jpg
+		ex: C:\MyBack.jpg
+
+	Front=
+		Font color in RGB seperated by a ":" (without the ")
+
+	Font=
+		Set the font name for the font you wish to use.
+		ex: Ariel
+
+	Erratic=
+		0 or 1, emulates wireless mouse low on battery (or maybe a 'in need of cleaning mouse') :D
+		This option can be changes by r-click on the window and check the menu (not saved on exit).
+
+
+	Mail me ... Comments / Suggestions > nyxz_d2@hotmail.com
